@@ -1,1 +1,4 @@
-app coded by javaservlet , function of login auth and listing and searching items from sql, shopping cart
+JAVAで作成したWebApplication
+ログイン認証機能
+商品検索、ショッピングバッグなど商品管理システム
+DAOを用いたmysql連携
